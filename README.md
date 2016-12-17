@@ -1,0 +1,2 @@
+# mydiary
+GitHub Pages
